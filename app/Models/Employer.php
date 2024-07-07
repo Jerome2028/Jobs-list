@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
 
 class Employer extends Model
 {
-    // use HasFactory;
+     use HasFactory;
     // protected $table = 'job_listings';
     // protected $guarded = [];
 
